@@ -40,6 +40,6 @@ Once the ESP8266 is powered on and connected to the WiFi, it will fetch the weat
 - Wind speed in meters per second
 The weather data will update every 60 seconds.
 # Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/mchydhamlna/Weather-Project/issues) page if you want to contribute.
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mchydhamlna/Weather-Project/blob/main/LICENSE) file for details.
