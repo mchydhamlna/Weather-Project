@@ -19,7 +19,7 @@ This Weather Project is an IoT-based application using an ESP8266 microcontrolle
 # Installation
 ## 1. Clone the repository
 ```sh
-https://github.com/mchydhamlna/Weather-Project
+https://github.com/mchydhamlna/Weather-Project.git
 ```
 ## 2. Install necessary libraries:
 Ensure you have the following libraries installed via the Arduino Library Manager:
